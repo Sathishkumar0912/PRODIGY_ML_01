@@ -24,33 +24,6 @@ The dataset used is from the **House Prices - Advanced Regression Techniques** c
 │       ├── actual_vs_predicted.png
 ```
 
----
-
-### 🔧 **Setup & Installation**  
-#### **1️⃣ Clone the Repository**  
-
-git clone https://github.com/your-username/house-price-prediction.git
-cd house-price-prediction
-```
-
-#### **2️⃣ Install Dependencies**  
-Ensure you have Python **3.x** installed. Then, install the required libraries:  
-
-pip install -r requirements.txt
-```
-
-#### **3️⃣ Run the Script**  
-
-python house_price_prediction.py
-```
-
----
-
-### 📊 **Model Performance**  
-The model evaluates performance using:  
-- **Mean Squared Error (MSE)**  
-- **R-squared (R²) Score**  
-- **Actual vs. Predicted Scatter Plot**  
 
 Sample output:  
 ```
@@ -62,7 +35,7 @@ R-squared (R²): 0.82
 ---
 
 ### 📷 **Visualization**  
-![Actual vs Predicted](results/actual_vs_predicted.png)  
+![Actual vs Predicted]  
 
 ---
 
