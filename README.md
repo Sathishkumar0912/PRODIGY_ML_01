@@ -1,7 +1,5 @@
 # PRODIGY_ML_01
-Here’s a **README.md** file for your GitHub repository:  
 
----
 
 ## **House Price Prediction using Linear Regression**  
 
