@@ -88,13 +88,4 @@ R-squared (R²): 0.82
 ### 🤝 **Contributions & Issues**  
 Feel free to **fork this repository**, create a **pull request (PR)**, or report any issues! 🚀  
 
-📩 **Contact:** [Your Email or LinkedIn]  
 
----
-
-### 🌟 **Give a Star!**  
-If you found this helpful, don’t forget to ⭐ **star this repo**!  
-
----
-
-This README file is **GitHub-ready**! 🚀 You can customize the **repository URL** and **contact info** before uploading.
